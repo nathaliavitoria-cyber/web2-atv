@@ -1,0 +1,4 @@
+1) Instale o Node.js LTS (nodejs.org) e reabra o VS Code/terminal.
+2) Nesta pasta, rode:  node dist/main.js     (ou de dois cliques em iniciar.bat)
+3) Teste: http://localhost:3000/api/projetos
+NAO precisa de npm install.
